@@ -1,7 +1,7 @@
 # README #
 ### integrantes
-Elmer Mamani Ticona
-Edy Felix Tarqui Guarachi
+* Elmer Mamani Ticona
+* Edy Felix Tarqui Guarachi
 
 Este README, cuenta con los pasos para levantar en ambientes de desarrollo la App de farmapp, desarrollado con Python v3.9 y Django v4.1.2
 
@@ -27,11 +27,11 @@ python manage.py runserver
 ### Usuario de prueba ###
 ```commandline
 username: admin
-password: 4rch12022
+password: farmapp
 ```
 ### Url de acceso en el Navegador
 ```commandline
-http://localhost:8000/minikardex
+http://localhost:8000/farmapp
 ```
 ### Django REST Framework
 * EndPoint Tipo de Productos
