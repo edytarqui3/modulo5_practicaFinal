@@ -74,7 +74,7 @@ then: `python manage.py migrate`
 
 ##### Use admin interface:
 1. Create an admin user:  
-`python manage.py superuser`
+`python manage.py dosuperuser`
 2. Run the project locally:  
 `python manage.py runserver`
 3. Navigate to: `http://localhost:8000/admin/`
